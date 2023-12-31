@@ -35,7 +35,7 @@ function App() {
                 display={"flex"}
                 justifyContent={"center"}
                 alignItems={"center"}
-                bgImage="url('/mickey.png')" // 画像のURLを指定
+                bgImage="url('mickey.png')" // 画像のURLを指定
                 bgSize="cover" // 画像をコンポーネント全体にカバーさせる
                 bgPosition="center" // 画像を中央に配置
                 bgRepeat="no-repeat" // 画像の繰り返しを無効にする
